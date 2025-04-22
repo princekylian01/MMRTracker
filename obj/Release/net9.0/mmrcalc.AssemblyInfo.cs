@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mmrcalc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d621cd79f6cbd93d7542879c15e206db0ff2625")]
 [assembly: System.Reflection.AssemblyProductAttribute("mmrcalc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mmrcalc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
